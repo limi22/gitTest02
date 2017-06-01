@@ -9,7 +9,7 @@
 <body>
 <h2>gitTest입니다.</h2>
 <h3>git 수정합니다.</h3>
-<h4>branch01에서 추가함.......</h4>
-<h5>master에서 추가함</h5>
+<h4>master에서 추가함.......</h4>
+<h5>branch01에서 추가함</h5>
 </body>
 </html>
